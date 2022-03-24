@@ -2,12 +2,13 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Samira Resende Freitas 
+- Matrícula: 17.1.8237
+- Curso: SI 💻 
+- Semestre/Ano correntes: 21.2
+- Link para o seu GitHub: [SamiraFreitas] https://github.com/SamiraFreitas
 
 ## [Projeto final:](./Projeto/README.md)
 
 Apresente uma breve descrição do seu projeto.
+
