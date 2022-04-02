@@ -6,7 +6,7 @@
 - Matrícula: 17.1.8237
 - Curso: SI 💻 
 - Semestre/Ano correntes: 21.2
-- Link para o seu GitHub: [SamiraFreitas] https://github.com/SamiraFreitas
+- Link para o seu GitHub: [SamiraFreitas](https://github.com/SamiraFreitas)
 
 ## Projeto final: 
 <br>
@@ -31,8 +31,9 @@ A aplicação tera consulta a um banco de dados. Além disso, possuirá crud par
 ## Layout da aplicação
 
 
-<li>Esse projeto possui uma documentação que pode ser encontrada : [Escopo] (https://pt.overleaf.com/project/6248cbcc387385536d8982eb)
-<li>Essa aplicação possui um protótipo que pode ser acessado através do link  : Em construção
+- Esse projeto possui uma documentação que pode ser encontrada : [Escopo](https://pt.overleaf.com/project/6248cbcc387385536d8982eb)
+- Essa aplicação possui um protótipo que pode ser acessado através do link  : Em construção
+
 
 
 ##  Tecnologias Utilizadas 
@@ -43,7 +44,7 @@ A aplicação tera consulta a um banco de dados. Além disso, possuirá crud par
 - Typescript
 - Node.js
 - Banco de Dados a definir 
-## 💻 Como baixar o projeto 
+## Como baixar o projeto 
 
 ```bash
 Em construção
