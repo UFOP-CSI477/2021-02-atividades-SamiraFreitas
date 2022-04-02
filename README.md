@@ -11,7 +11,7 @@
 ## Projeto final: 
 <br>
 <h3 align="center">
-    Gerêncie vagas de estágio de modo fácil e interativo. <h3>
+    Gerêncie as vagas de estágio de modo fácil e interativo. <h3>
 
 <img src="./capa.png" alt="Logo">
 <br>
@@ -25,13 +25,14 @@
 
 
 ## Sobre 
-O sistema administrativo tem como objetivo controlar vagas de estágio, permitindo o usuário, incluir os dados essencias para cadastrar as oportunidades podendo visualizar todas as vagas cadastradas em um "blog".  
+O sistema administrativo tem como objetivo controlar vagas de estágio, permitindo o usuário, incluir os dados essencias para cadastrar a oportunidade podendo visualizar todas as vagas cadastradas em um "blog".  
 A aplicação tera consulta a um banco de dados. Além disso, possuirá crud para vagas. 
 
 ## Layout da aplicação
 
-Esse projeto possui uma documentação que pode ser encontrada : [📝 Escopo](https://pt.overleaf.com/project/6248cbcc387385536d8982eb)
-Essa aplicação possui um protótipo que pode ser acessado através do link  : Em construção
+
+<li>Esse projeto possui uma documentação que pode ser encontrada : [Escopo] (https://pt.overleaf.com/project/6248cbcc387385536d8982eb)
+<li>Essa aplicação possui um protótipo que pode ser acessado através do link  : Em construção
 
 
 ##  Tecnologias Utilizadas 
