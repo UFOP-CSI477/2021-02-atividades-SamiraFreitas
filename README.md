@@ -17,6 +17,7 @@
 <br>
 
 ##  Índice
+    
 - [Índice](#-índice)
 - [Sobre](#-sobre)
 - [Layout da aplicação](#-layout-da-aplicação)
@@ -25,6 +26,7 @@
 
 
 ## Sobre 
+    
 O sistema administrativo tem como objetivo controlar vagas de estágio, permitindo o usuário incluir os dados essencias para cadastrar uma oportunidade
 bem como divulga-las na aba de postagens. A aplicação tera consulta a um banco de dados, além disso, possuirá crud para vagas.
 
@@ -36,7 +38,7 @@ bem como divulga-las na aba de postagens. A aplicação tera consulta a um banco
 
 
 
-##  Tecnologias Utilizadas 
+##  Tecnologias
 - HTML  
 - Js
 - CSS
@@ -44,6 +46,7 @@ bem como divulga-las na aba de postagens. A aplicação tera consulta a um banco
 - Typescript
 - Node.js
 - Banco de Dados a definir 
+    
 ## Como baixar o projeto 
 
 ```bash
