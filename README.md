@@ -25,8 +25,8 @@
 
 
 ## Sobre 
-O sistema administrativo tem como objetivo controlar vagas de estágio, permitindo o usuário, incluir os dados essencias para cadastrar a oportunidade podendo visualizar todas as vagas cadastradas em um "blog".  
-A aplicação tera consulta a um banco de dados. Além disso, possuirá crud para vagas. 
+O sistema administrativo tem como objetivo controlar vagas de estágio, permitindo o usuário incluir os dados essencias para cadastrar uma oportunidade
+bem como divulga-las na aba de postagens. A aplicação tera consulta a um banco de dados, além disso, possuirá crud para vagas.
 
 ## Layout da aplicação
 
