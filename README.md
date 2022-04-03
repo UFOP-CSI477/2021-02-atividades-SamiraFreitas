@@ -33,7 +33,7 @@ bem como divulga-las na aba de postagens. A aplicação tera consulta a um banco
 ## Layout da aplicação
 
 
-- Esse projeto possui uma documentação que pode ser encontrada : [Escopo](https://pt.overleaf.com/read/wrqdmwdrmxmb)
+- Esse projeto possui uma documentação que pode ser encontrado : [Escopo](https://pt.overleaf.com/read/wrqdmwdrmxmb)
 - Essa aplicação possui um protótipo que pode ser acessado através do link  : Em construção
 
 
