@@ -26,7 +26,7 @@ bem como divulga-las na aba de postagens. A aplicação tera consulta a um banco
 
 
 - Esse projeto possui uma documentação que pode ser encontrado : [Escopo](https://pt.overleaf.com/read/wrqdmwdrmxmb)
-- Essa aplicação possui um protótipo que pode ser acessado através do link  : Em construção
+- Essa aplicação possui um protótipo que pode ser acessado através do link  : [Protótipo](https://www.figma.com/file/xNlBt6PzHkgz92dizuqf6X/Sistema_Web_I?node-id=0%3A1)
 
 
 
