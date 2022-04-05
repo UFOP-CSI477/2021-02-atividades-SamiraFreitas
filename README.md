@@ -16,18 +16,10 @@
 <img src="./capa.png" alt="Logo">
 <br>
 
-##  Índice
-    
-- [Índice](#-índice)
-- [Sobre](#-sobre)
-- [Layout da aplicação](#-layout-da-aplicação)
-- [ Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-
 
 ## Sobre 
     
-O sistema administrativo tem como objetivo controlar vagas de estágio, permitindo o usuário incluir os dados essencias para cadastrar uma oportunidade
+O sistema administrativo tem como objetivo controlar vagas de estágio, permitindo o usuário incluir os dados essencias para cadastrar oportunidades
 bem como divulga-las na aba de postagens. A aplicação tera consulta a um banco de dados, além disso, possuirá crud para vagas.
 
 ## Layout da aplicação
@@ -38,7 +30,7 @@ bem como divulga-las na aba de postagens. A aplicação tera consulta a um banco
 
 
 
-##  Tecnologias
+##  Tecnologias a serem utilizadas
 - HTML  
 - Js
 - CSS
