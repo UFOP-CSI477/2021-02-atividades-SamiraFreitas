@@ -13,7 +13,7 @@
 <h3 align="center">
     Gerêncie as vagas de estágio de modo fácil e interativo. <h3>
 
-<img src="./capa.png" alt="Logo">
+<img src="./Frame 1.png" alt="Logo">
 <br>
 
 
