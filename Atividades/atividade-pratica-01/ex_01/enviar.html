@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enviar Pix</title>
+
+<script type="text/javascript" src="api.js"></script>
+<script  src="index.js"></script>
+<link rel="stylesheet" type="text/css" href="./styles/index.css">
+
+</head>
+
+<body onload="carregarBancos()" >
+   
+    <div class="menu">
+        <div class="cabecario">
+            <img class='img'src="./assets/Logo—pix_powered_by_Banco_Central_(Brazil,_2020) 2.png" alt="" width="10%">
+        </div>
+
+        <div class="radio">
+
+
+
+        </div>
+            
+            <form class="divform" > 
+                <div class="form">
+                <label>Valor da Transferencia</label> <br>
+                <input type="text" name="valor"> <br>
+
+                <label >Insira a Data</label><br>
+                <input type="date" name="data"> <br>
+
+                <label for="pix">Escolha a chave pix:</label><br>
+                <select name="chave" id="chave">
+                    <option value="cpf">CPF</option>
+                    <option value="cpnj">CNPJ</option>
+                    <option value="email">E-mail</option>
+                    <option value="telefone">Numero de Telefone</option>
+                  </select>
+                  <input type="text" name="vchave">
+                  <br>
+
+                
+               <select name="bancos" name="bancos" id="bancos"> <br>
+                    <option value="">Selecione:</option>
+               </select> <br>
+
+                
+                </div>
+                <div class="btc">
+                    <button type="button" onClick="cadDados(valor.value, data.value, chave.value, vchave.value, bancos.value)" class="botao b1"  style="border: none;" > 
+                        Enviar
+                    </button> <br>
+                    <button type="button" onClick="cadDados(valor.value, data.value, chave.value, vchave.value, bancos.value)" class="botao b1"  style="border: none;" > 
+                       Receber
+                    </button> <br>
+                </div>
+               
+            </form>
+            <script src="api.js"></script>
+    </div>
+    <div class="table">
+        <table border="2" id="table">
+            <thead>
+                <tr>
+                    <td>Codigo</td>
+                    <td>Valor</td>
+                    <td>Data</td>
+                    <td>Chave</td>
+                    <td>Valor da chave</td>
+                    <td>Banco</td>
+                </tr>
+
+            </thead>
+        
+    </div>
+  
+
+    
+</body>
+</html>
