@@ -21,6 +21,15 @@ top: 0px;
 background: rgba(235, 237, 117, 0.47);
 border-radius: 5px;
 }
+.saldo {
+  display: grid;
+    margin-top: -10rem;
+    margin-left: 70rem;
+    background: var(--shape);
+    padding: 2.3rem 2rem;
+    color: #636363;
+        
+}
 .divform{
   display: flex;
   margin-left: 30px;
@@ -39,6 +48,7 @@ border-radius: 5px;
   flex-direction: column;
 
 }
+
 input{
 
 height: 30px;
@@ -58,16 +68,16 @@ table tr td{
 
 .table{
   display: flex;
-  margin-left: 150px;
+  margin-left: 80px;
   align-items: center;
   margin-top: 50px;
- 
+  border: 1px solid gray;
 }
 
 .btc{
 display: flex;
 flex-direction: row;
-justify-content: space-evenly;
+justify-content: center;
 align-items: center;
 
 }
@@ -78,7 +88,7 @@ border-radius: 5px;
 width: 159px;
 height: 28px;
 align-items: center;
-
+justify-content: space-evenly;
 
 }
 

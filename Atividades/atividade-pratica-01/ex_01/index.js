@@ -1,3 +1,8 @@
+/*document.getElementById("myBtn").addEventListener("click", myFunction);
+
+function myFunction() {
+  alert ("Hello World!");
+} teste addevent lister para saldo*/
 
 function cadDados (valor, data, chave, valordachave, banco){
     var tb = document.getElementById("table");

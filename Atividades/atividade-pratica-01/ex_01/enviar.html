@@ -13,22 +13,37 @@
 </head>
 
 <body onload="carregarBancos()" >
+ 
    
     <div class="menu">
+        
+
         <div class="cabecario">
             <img class='img'src="./assets/Logo—pix_powered_by_Banco_Central_(Brazil,_2020) 2.png" alt="" width="10%">
-        </div>
-
-        <div class="radio">
-
-
-
-        </div>
             
-            <form class="divform" > 
+            <div class="saldo">
+               
+                <div >
+                    <header>
+                        <span id="s">Saldo</span>
+                        
+                    </header>
+                    <p >0</p>
+                    
+                </div>
+            </div>
+   
+        </div>
+        
+       
+      
+            <form class="divform" >
+                 
                 <div class="form">
+
+                
                 <label>Valor da Transferencia</label> <br>
-                <input type="text" name="valor"> <br>
+                <input type="number" name="valor"> <br>
 
                 <label >Insira a Data</label><br>
                 <input type="date" name="data"> <br>
@@ -43,7 +58,7 @@
                   <input type="text" name="vchave">
                   <br>
 
-                
+                <label for="pix">Escolha o Banco:</label><br>
                <select name="bancos" name="bancos" id="bancos"> <br>
                     <option value="">Selecione:</option>
                </select> <br>
@@ -52,18 +67,19 @@
                 </div>
                 <div class="btc">
                     <button type="button" onClick="cadDados(valor.value, data.value, chave.value, vchave.value, bancos.value)" class="botao b1"  style="border: none;" > 
-                        Enviar
+                    Enviar
                     </button> <br>
                     <button type="button" onClick="cadDados(valor.value, data.value, chave.value, vchave.value, bancos.value)" class="botao b1"  style="border: none;" > 
-                       Receber
+                      Receber
                     </button> <br>
+                    
                 </div>
                
             </form>
             <script src="api.js"></script>
     </div>
     <div class="table">
-        <table border="2" id="table">
+        <table  id="table">
             <thead>
                 <tr>
                     <td>Codigo</td>
@@ -77,8 +93,5 @@
             </thead>
         
     </div>
-  
-
-    
 </body>
 </html>
