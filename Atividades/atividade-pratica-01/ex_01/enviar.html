@@ -28,7 +28,7 @@
                         <span id="s">Saldo</span>
                         
                     </header>
-                    <p >0</p>
+                    <p id="saldo"></p>
                     
                 </div>
             </div>
@@ -43,7 +43,7 @@
 
                 
                 <label>Valor da Transferencia</label> <br>
-                <input type="number" name="valor"> <br>
+                <input type="number" name="valor" id="valor"><br>
 
                 <label >Insira a Data</label><br>
                 <input type="date" name="data"> <br>
@@ -66,10 +66,10 @@
                 
                 </div>
                 <div class="btc">
-                    <button type="button" onClick="cadDados(valor.value, data.value, chave.value, vchave.value, bancos.value)" class="botao b1"  style="border: none;" > 
+                    <button type="button" onClick="cadDados(valor.value, data.value, chave.value, vchave.value, bancos.value,'enviar')" class="botao b1"  style="border: none;" > 
                     Enviar
                     </button> <br>
-                    <button type="button" onClick="cadDados(valor.value, data.value, chave.value, vchave.value, bancos.value)" class="botao b1"  style="border: none;" > 
+                    <button type="button" onClick="cadDados(valor.value, data.value, chave.value, vchave.value, bancos.value,'receber')" class="botao b1"  style="border: none;" > 
                       Receber
                     </button> <br>
                     
