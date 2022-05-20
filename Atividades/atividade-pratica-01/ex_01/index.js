@@ -4,7 +4,9 @@ function myFunction() {
   alert ("Hello World!");
 } teste addevent lister para saldo*/
 
-function cadDados (valor, data, chave, valordachave, banco){
+var valor = 0
+
+function cadDados (valor, data, chave, valordachave, banco,transacao){
     var tb = document.getElementById("table");
     var qtdLinhas = tb.rows.length;
     var linha = tb.insertRow(qtdLinhas);
@@ -22,5 +24,25 @@ function cadDados (valor, data, chave, valordachave, banco){
     cellChave.innerHTML = chave;
     cellValorCh.innerHTML = valordachave;
     cellBanco.innerHTML = banco;
-   
+    atualizaSaldo(transacao)
+}
+function atualizaSaldo(transacao){
+  let val = document.getElementById("valor").value
+  valor = parseFloat(valor)
+  val = parseFloat(val)
+
+  if (transacao == 'enviar'){
+    
+    valor = valor - val
+
+  }else{
+    valor = valor + val
+
+  }
+
+  let saldo = document.getElementById("saldo")
+  saldo.innerHTML = ''
+  saldo.innerHTML = valor
+  
+
 }
