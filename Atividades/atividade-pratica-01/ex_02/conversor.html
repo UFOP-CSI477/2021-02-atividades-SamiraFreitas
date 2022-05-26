@@ -7,6 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="../ex_02/style.css">
     <script  src="../ex_02/api.js"></script>
+    <script  src="../ex_02/index.js"></script>
 </head>
 <body onload="Moedas()" >
     <div >
@@ -17,17 +18,17 @@
             <form  > 
                 <div >
                 <label>Valor </label> <br>
-                <input type="number" name="valor"> <br>
+                <input type="number" name="valor" id="valor"> <br>
                 <p>Converter de :</p>
-                <select name="converter-de" name="bancos" id="bancos"> <br>
+                <select name="converter-de" name="bancos" id="converter-de"> <br>
                     <option value="">Selecione:</option>
                </select> <br>
                <p>Para :</p>
-               <select name="converter-para" name="bancos" id="bancos"> <br>
+               <select name="converter-para" name="bancos" id="converter-para"> <br>
                 <option value="">Selecione:</option>
                 </select> <br>
 
-                  <button class="bt" type="button"  style="border: none;" > 
+                  <button onclick="pegaValor()" class="bt" type="button"  style="border: none;" > 
                    Converter
                 </button> <br>
                 </div>
@@ -41,6 +42,16 @@
 
         <div class="resultado">
             <p>Resultado da Conversão</p>
+            <div class="conversao">
+               
+                <div >
+                    <header>
+                        <p id="cv"></p>
+                    </header>
+                    
+                    
+                </div>
+            </div>
         </div>
             
     </div>
