@@ -11,33 +11,25 @@
 ## Projeto final: 
 <br>
 <h3 align="center">
-    Gerêncie as vagas de estágio de modo fácil e interativo. <h3>
-
-<img src="./Frame 1.png" alt="Logo">
+    Gerêncie as suas despesas de modo fácil e interativo. <h3>
 <br>
 
 
 ## Sobre 
     
-O sistema administrativo tem como objetivo controlar vagas de estágio, permitindo o usuário incluir os dados essencias para cadastrar oportunidades
-bem como divulga-las na aba de postagens. A aplicação tera consulta a um banco de dados, além disso, possuirá crud para vagas.
+O sistema administrativo tem como objetivo controlar suas despesas, permitindo o usuário incluir os dados essencias para cadastrar suas despesas
+bem como acessa-lás na aba de despesa. A aplicação tera consulta a um banco de dados.
 
 ## Layout da aplicação
-
-
-- Esse projeto possui uma documentação que pode ser encontrado : [Escopo](https://pt.overleaf.com/read/wrqdmwdrmxmb)
-- Essa aplicação possui um protótipo que pode ser acessado através do link  : [Protótipo](https://www.figma.com/file/xNlBt6PzHkgz92dizuqf6X/Sistema_Web_I?node-id=0%3A1)
 
 
 
 ##  Tecnologias a serem utilizadas
 - HTML  
-- Js
+- Php
 - CSS
-- React.js
-- Typescript
-- Node.js
-- Banco de Dados a definir 
+- Bootstrap
+- MySQL 
     
 ## Como baixar o projeto 
 
