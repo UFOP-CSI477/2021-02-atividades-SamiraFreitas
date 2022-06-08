@@ -40,6 +40,6 @@
  Link para o Protótipo: [Figma](https://www.figma.com/file/xNlBt6PzHkgz92dizuqf6X/Sistema_Web_I?node-id=0%3A1) <br>
  Link para o Escopo do trabalho: [Escopo](https://www.overleaf.com/read/wrqdmwdrmxmb)
 
-### 5. Referências
 
-  Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT.
+
+  
