@@ -28,5 +28,5 @@ Bom, eu tive muitos desafios ao realizar esse trabalho. Irei citar brevemente al
 
 ### 5. Instruções para instalação e execução
 
-Instruções citados no vídeo; 
+Instruções citadas no vídeo; 
 
