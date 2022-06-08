@@ -6,17 +6,16 @@
 
 
 ### 1. Funcionalidades implementadas
-<!-- Descrever as funcionalidades que eram previstas e foram implementas. -->
-  
-### 2. Funcionalidades previstas e não implementadas
 Cadastro
 Login
 Cadastrar despesa
-Listar Despesa
 Logout
+  
+### 2. Funcionalidades previstas e não implementadas
+Listar Despesa : Consegui recuperar os dados do banco, mas não foi possível lista-los como foi proposto. 
 
 ### 3. Outras funcionalidades implementadas
-Listar Despesa : Consegui recuperar os dados do banco, mas não foi possível lista-los como foi proposto. 
+
 
 ### 4. Principais desafios e dificuldades
 Bom, eu tive muitos desafios ao realizar esse trabalho. Irei citar brevemente alguns deles :
