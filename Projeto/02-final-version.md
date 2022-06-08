@@ -1,29 +1,33 @@
-# **CSI606-2021-02 - Remoto - Trabalho Final - Resultados**
+# **CSI606-2021-02 - Gerenciamento de Despesa**
 
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
+## *Aluna(o): Samira Resende Freitas
 
 --------------
 
-<!-- Este documento tem como objetivo apresentar o projeto desenvolvido, considerando o que foi definido na proposta e o produto final. -->
-
-### Resumo
-
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
 
 ### 1. Funcionalidades implementadas
 <!-- Descrever as funcionalidades que eram previstas e foram implementas. -->
   
 ### 2. Funcionalidades previstas e não implementadas
-<!-- Descrever as funcionalidades que eram previstas e não foram implementas, apresentando uma breve justificativa do porquê elas não foram incluídas -->
+Cadastro
+Login
+Cadastrar despesa
+Listar Despesa
+Logout
 
 ### 3. Outras funcionalidades implementadas
-<!-- Descrever as funcionalidades implementas além daquelas que foram previstas, caso se aplique.  -->
+Listar Despesa : Consegui recuperar os dados do banco, mas não foi possível lista-los como foi proposto. 
 
 ### 4. Principais desafios e dificuldades
-<!-- Descrever os principais desafios encontrados no desenvolvimento do trabalho, quais foram as dificuldades e como elas foram superadas e resolvidas. -->
+Bom, eu tive muitos desafios ao realizar esse trabalho. Irei citar brevemente alguns deles :
+
+- Pirmeiramente, eu optei por mudar de tema devido a complexidade do primeiro proposto. 
+- Sempre tive dificuldades em realizar a conexão do front com back e sincronizar as coisas no banco de dados. Acredito que esse é o meu desafio em trabalhos que são propostos a criação do sistema completo.
+- Posso dizer que, em trabalhos já realizados eu sempre optei por desenvolver o front, devido a esse motivo tenho muita dificuldade em linkar as coisas e entender o funcionamento de uma aplicação completa. 
+- Foi um desafio muito grande pra mim e posso dizer que mesmo não desenvolvendo um trabalho muito elaborado e cheio de funcionalidades eu consegui finalizar e superar essas barreiras citadas. 
+- Tenho muito que aprender ainda, acredito que a disciplina me trouxe coragem para trabalhar sozinha e mesmo em um projeto simples pude entender conceitos fundamentais para seguir carreira e continuar o curso de Sistema.
 
 ### 5. Instruções para instalação e execução
-<!-- Descrever o que deve ser feito para instalar (ou baixar) a aplicação, o que precisa ser configurando (parâmetros, banco de dados e afins) e como executá-la. -->
 
-### 6. Referências
-<!-- Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT. -->
+Instruções citados no vídeo; 
+
