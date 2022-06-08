@@ -25,7 +25,8 @@ bem como acessa-lás na aba de despesa. A aplicação tera consulta a um banco d
 
 ## Layout da aplicação
 
-[Prototipo](https://www.figma.com/file/xNlBt6PzHkgz92dizuqf6X/Sistema_Web_I?node-id=0%3A1)
+[Prototipo](https://www.figma.com/file/xNlBt6PzHkgz92dizuqf6X/Sistema_Web_I?node-id=0%3A1) <br>
+[Escopo](https://www.overleaf.com/read/wrqdmwdrmxmb)
 
 
 ##  Tecnologias a serem utilizadas
